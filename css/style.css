@@ -339,6 +339,7 @@ a {
     text-align: center;
     gap: 60px;
     .hero-left {
+      min-width: 0;
       p {
         margin-top: 30px;
       }
